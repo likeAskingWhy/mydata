@@ -1,0 +1,272 @@
+{
+  "personalinfor": [
+    {
+      "username": "teacher",
+      "teacherid": "200565",
+      "name": "王小虎",
+      "sex": "男",
+      "birthdate": "1982-01-20",
+      "phone": "13025489999",
+      "email": "wangxiaohu@163.com",
+      "id": 1
+    }
+  ],
+  "basicfileinfor": [
+    {
+      "teacherid": "200565",
+      "name": "王小虎",
+      "sex": "男",
+      "nation": "汉族",
+      "idnumber": "000000197802160000",
+      "nativeplace": "安徽省阜阳市",
+      "politicsstatus": "党员",
+      "duty": "教务主任",
+      "education": "硕士",
+      "graduation": "安徽大学",
+      "id": 1
+    }
+  ],
+  "researchfileinfor": [
+    {
+      "teacherid": "200565",
+      "name": "王小虎",
+      "research": "研究课题",
+      "suggestion": "教改建议",
+      "thesis": "王小虎的发表论文",
+      "monograph": "王小虎的专著",
+      "appraise": "王小虎的同行评价",
+      "id": 1
+    }
+  ],
+  "learnfileinfor": [
+    {
+      "teacherid": "200565",
+      "name": "王小虎",
+      "topic": "王小虎题目",
+      "createdate": "王小虎的开始日期",
+      "partner": "王小虎的合作者",
+      "teamleader": "王小虎的小组长",
+      "publishdate": "王小虎的发表日期",
+      "id": 1
+    }
+  ],
+  "teachfileinfor": [
+    {
+      "teacherid": "200565",
+      "name": "王小虎",
+      "teachsubject": "数学",
+      "teachingexp": "王小虎的教学经历",
+      "gethonor": "王小虎的所获荣誉",
+      "teachtarget": "王小虎的教学目标",
+      "teachplan": "王小虎的教学规划",
+      "id": 1
+    }
+  ],
+  "userinfor": [
+    {
+      "userpassword": "123456",
+      "id": 1
+    }
+  ],
+  "admininfor": [
+    {
+      "adminpassword": "12345",
+      "id": 1
+    }
+  ],
+  "personalinforadm": [
+    {
+      "username": "lijiannan001",
+      "teacherid": "200515",
+      "name": "李健楠",
+      "sex": "男",
+      "birthdate": "1982-08-14",
+      "phone": "13088881234",
+      "email": "lijiannan@163.com",
+      "id": 1
+    },
+    {
+      "username": "ilovezhangxiaohong",
+      "teacherid": "200629",
+      "name": "张小红",
+      "sex": "女",
+      "birthdate": "1981-02-28",
+      "phone": "15987412368",
+      "email": "zhangxiaohong@163.com",
+      "id": 2
+    },
+    {
+      "username": "baizhantang008",
+      "teacherid": "201210",
+      "name": "白展堂",
+      "sex": "男",
+      "birthdate": "1986-02-14",
+      "phone": "15841446531",
+      "email": "baizhantang@163.com",
+      "id": 3
+    },
+    {
+      "username": "guofurong",
+      "teacherid": "201001",
+      "name": "郭芙蓉",
+      "sex": "女",
+      "birthdate": "1985-09-06",
+      "phone": "15705574726",
+      "email": "gufurong@163.com",
+      "id": 4
+    },
+    {
+      "username": "woshiwangtiechui321",
+      "teacherid": "200741",
+      "name": "王铁锤",
+      "sex": "男",
+      "birthdate": "1983-11-10",
+      "phone": "13095469821",
+      "email": "wngtiechui@163.com",
+      "id": 5
+    }
+  ],
+  "teacherfileinforadm": [
+    {
+      "teacherid": "200515",
+      "name": "李健楠",
+      "sex": "男",
+      "nation": "汉族",
+      "idnumber": "000000197802160000",
+      "nativeplace": "安徽省阜阳市",
+      "politicsstatus": "党员",
+      "duty": "教务主任",
+      "education": "硕士",
+      "graduation": "安徽大学",
+      "research": "李健楠的研究课题",
+      "suggestion": "李健楠的教改建议",
+      "thesis": "李健楠的发表论文",
+      "monograph": "李健楠的专著",
+      "appraise": "李健楠的同行评价",
+      "topic": "李健楠题目",
+      "createdate": "李健楠的开始日期",
+      "partner": "李健楠的合作者",
+      "teamleader": "李健楠的小组长",
+      "publishdate": "李健楠的发表日期",
+      "teachsubject": "李健楠教学科目",
+      "teachingexp": "李健楠的教学经历",
+      "gethonor": "李健楠的所获荣誉",
+      "teachtarget": "李健楠的教学目标",
+      "teachplan": "李健楠的教学规划",
+      "id": 1
+    },
+    {
+      "teacherid": "200629",
+      "name": "张小红",
+      "sex": "女",
+      "nation": "汉族",
+      "idnumber": "000000197704190000",
+      "nativeplace": "安徽省芜湖市",
+      "politicsstatus": "党员",
+      "duty": "教务主任",
+      "education": "硕士",
+      "graduation": "安徽大学",
+      "research": "张小红的课题研究",
+      "suggestion": "张小红的教改建议",
+      "thesis": "张小红的发表论文",
+      "monograph": "张小红的专著",
+      "appraise": "张小红的同行评价",
+      "topic": "张小红题目",
+      "createdate": "张小红的开始日期",
+      "partner": "张小红的合作者",
+      "teamleader": "张小红的小组长",
+      "publishdate": "张小红的发表日期",
+      "teachsubject": "张小红教学科目",
+      "teachingexp": "张小红的教学经历",
+      "gethonor": "张小红的所获荣誉",
+      "teachtarget": "张小红的教学目标",
+      "teachplan": "张小红的教学规划",
+      "id": 2
+    },
+    {
+      "teacherid": "201210",
+      "name": "白展堂",
+      "sex": "男",
+      "nation": "汉族",
+      "idnumber": "000000198007250000",
+      "nativeplace": "安徽省合肥市",
+      "politicsstatus": "党员",
+      "duty": "班主任",
+      "education": "本科",
+      "graduation": "安徽师范大学",
+      "research": "白展堂的研究课题",
+      "suggestion": "白展堂的教改建议",
+      "thesis": "白展堂的发表论文",
+      "monograph": "白展堂的专著",
+      "appraise": "白展堂的同行评价",
+      "topic": "白展堂题目",
+      "createdate": "白展堂的开始日期",
+      "partner": "白展堂的合作者",
+      "teamleader": "白展堂的小组长",
+      "publishdate": "白展堂的发表日期",
+      "teachsubject": "白展堂教学科目",
+      "teachingexp": "白展堂的教学经历",
+      "gethonor": "白展堂的所获荣誉",
+      "teachtarget": "白展堂的教学目标",
+      "teachplan": "白展堂的教学规划",
+      "id": 3
+    },
+    {
+      "teacherid": "201001",
+      "name": "郭芙蓉",
+      "sex": "女",
+      "nation": "汉族",
+      "idnumber": "000000198007250000",
+      "nativeplace": "安徽省合肥市",
+      "politicsstatus": "党员",
+      "duty": "班主任",
+      "education": "本科",
+      "graduation": "安徽师范大学",
+      "research": "郭芙蓉的研究课题",
+      "suggestion": "郭芙蓉的教改建议",
+      "thesis": "郭芙蓉的发表论文",
+      "monograph": "郭芙蓉的专著",
+      "appraise": "郭芙蓉的同行评价",
+      "topic": "郭芙蓉题目",
+      "createdate": "郭芙蓉的开始日期",
+      "partner": "郭芙蓉的合作者",
+      "teamleader": "郭芙蓉的小组长",
+      "publishdate": "郭芙蓉的发表日期",
+      "teachsubject": "郭芙蓉教学科目",
+      "teachingexp": "郭芙蓉的教学经历",
+      "gethonor": "郭芙蓉的所获荣誉",
+      "teachtarget": "郭芙蓉的教学目标",
+      "teachplan": "郭芙蓉的教学规划",
+      "id": 4
+    },
+    {
+      "teacherid": "200741",
+      "name": "王铁锤",
+      "sex": "男",
+      "nation": "汉族",
+      "idnumber": "000000198007250000",
+      "nativeplace": "安徽省合肥市",
+      "politicsstatus": "党员",
+      "duty": "班主任",
+      "education": "本科",
+      "graduation": "安徽师范大学",
+      "research": "王铁锤的研究课题",
+      "suggestion": "王铁锤的教改建议",
+      "thesis": "王铁锤的发表论文",
+      "monograph": "王铁锤的专著",
+      "appraise": "王铁锤的同行评价",
+      "topic": "王铁锤题目",
+      "createdate": "王铁锤的开始日期",
+      "partner": "王铁锤的合作者",
+      "teamleader": "王铁锤的小组长",
+      "publishdate": "王铁锤的发表日期",
+      "teachsubject": "王铁锤教学科目",
+      "teachingexp": "王铁锤的教学经历",
+      "gethonor": "王铁锤的所获荣誉",
+      "teachtarget": "王铁锤的教学目标",
+      "teachplan": "王铁锤的教学规划",
+      "id": 5
+    }
+  ],
+  "recyclebin": []
+}
